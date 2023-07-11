@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33027.164
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FIAP_Modulo2_Aula5", "FIAP_Modulo2_Aula5\FIAP_Modulo2_Aula5.csproj", "{3A4619D7-7C0C-415E-9062-87898008DA0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A4619D7-7C0C-415E-9062-87898008DA0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A4619D7-7C0C-415E-9062-87898008DA0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A4619D7-7C0C-415E-9062-87898008DA0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A4619D7-7C0C-415E-9062-87898008DA0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D275072C-6356-4C22-BB13-C9C3F24A35C8}
+	EndGlobalSection
+EndGlobal
